@@ -1,0 +1,26 @@
+{
+  "name": "reactjs-contacts",
+  "displayName": "ReactContacts",
+  "version": "1.0.0",
+  "description": "A Reactjs-based Contacts App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Joy B. Bonzo",
+  "license": "Apache-2.0",
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-contacts": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "^6.3.0",
+    "cordova-plugin-contacts": "^3.0.0",
+    "cordova-plugin-whitelist": "1"
+  }
+}

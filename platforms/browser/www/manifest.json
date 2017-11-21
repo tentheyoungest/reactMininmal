@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "reactjs-contacts",
+  "short_name": "reactjs-contacts",
+  "version": "app.bsit.sectiona",
+  "description": "A Reactjs-based Contacts App",
+  "author": "Jessica Joy B. Bonzo",
+  "icons": [],
+  "start_url": "index.html"
+}
