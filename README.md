@@ -1,0 +1,2 @@
+# reactMininmal
+reactMinimal class sample
